@@ -1,3 +1,4 @@
 # PlatformerPizzaGame
 
-<embed src="/Report.pdf" type="application/pdf">
+<object data="/blog/images/xxx.pdf" type="application/pdf" width="100%"> 
+</object>
