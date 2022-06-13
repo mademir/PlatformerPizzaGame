@@ -1,4 +1,7 @@
 # PlatformerPizzaGame
 
-<object data="/blog/images/xxx.pdf" type="application/pdf" width="100%"> 
+<object data="Report.pdf" type="application/pdf">
+    <embed src="Report.pdf">
+        <p>This browser does not support PDFs.</p>
+    </embed>
 </object>
