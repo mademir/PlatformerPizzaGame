@@ -8,4 +8,4 @@ Visiual Studio and its tools have been utilised during the development and the t
 
 Python is used for developing an external program to create and design the levels in the game.  
 
-For more detailed information, please see "Report.pdf".  
+For more detailed information, please see <a href="/Report.pdf">Report.pdf</a>.  
