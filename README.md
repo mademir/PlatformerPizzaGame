@@ -1,5 +1,7 @@
 # PlatformerPizzaGame
 
+<img src="level1.png" width="80%">
+
 A platformer game developed over an existing base game.  
 Most of the features are newly added and the almost all of the existing structure has been modified.  
 
